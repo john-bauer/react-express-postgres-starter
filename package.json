@@ -1,0 +1,19 @@
+{
+  "name": "react-express-postgres-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/john-bauer/react-express-postgres-starter.git"
+  },
+  "author": "John Bauer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/john-bauer/react-express-postgres-starter/issues"
+  },
+  "homepage": "https://github.com/john-bauer/react-express-postgres-starter#readme"
+}
